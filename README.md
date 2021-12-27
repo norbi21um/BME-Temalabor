@@ -1,5 +1,6 @@
 # BME-Temalabor
 
+Témalaborban a házi feladatot egy csoporttársammal együtt oldottuk meg.
 
 <b>Feladat ismertetése:</b><br> 
 A feladatunk egy olyan lámpa magasság állító elkészítése volt, ami dinamikusan leköveti a model 
